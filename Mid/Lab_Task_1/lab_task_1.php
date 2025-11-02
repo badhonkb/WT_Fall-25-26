@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+
   <head>
     <title>Registration Form</title>
  </head>
@@ -47,11 +47,7 @@
  Confrim Password: <br>
  <input type ="password"><br>
 
-
-
-
  <center>
     <button type="submit" style="background-color: blue;">Register</button>
  </center>
  </body>
-</html>
