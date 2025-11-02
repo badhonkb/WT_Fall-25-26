@@ -1,13 +1,15 @@
 <!DOCTYPE html>
+<html>
 <head>
     <title>Registration Form</title>
 </head>
 
-    <center>
+
+<body>
+<center>
 
 <h2 style = "color : Blue">Clinic Patient Registration</h2>
 </center>
-<body>
 
 Full Name:    <br></br>
 <input type ="text"><br></br>
@@ -36,7 +38,7 @@ Insurance Policy Number : <br> </br>
 </center>
 
 Username: <br> </br>
-<input type ="password"><br></br>
+<input type ="text"><br></br>
 
 Password: <br> </br>
 <input type ="password"><br></br>
@@ -51,8 +53,6 @@ Confrim Password: <br> </br>
 <center>
     <button type="submit" style="background-color: blue;">Register</button>
 </center>
-
-
-
-
 </body>
+
+</html>
