@@ -6,9 +6,9 @@
     <center>
 
 <h2 style = "color : Blue">Clinic Patient Registration</h2>
-
-<body>
 </center>
+<body>
+
 Full Name:    <br></br>
 <input type ="text"><br></br>
 Age : <br> </br>
