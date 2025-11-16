@@ -27,7 +27,7 @@
  
     <button type="submit">Register</button>
   </form>
-   <
+   
   <div id="error"></div>
   <div id="output"></div>
  
@@ -73,7 +73,7 @@ function handleSubmit() {
 
   return false;
 }
- </script>
+</script>
 
  
 </body>
