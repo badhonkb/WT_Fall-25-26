@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>Form Handler</title>
-
 </head>
 <body>
   <center>
@@ -26,6 +25,13 @@
     
  
     <button type="submit">Register</button>
+     <section id="course-selection">
+            <h2>Course Selection</h2>
+            <input type="text"  placeholder="Enter course name">
+            <button id="add-course">Add Course</button>
+ 
+            <ul id="course-list"></ul>
+        </section>
   </form>
    
   <div id="error"></div>
@@ -74,6 +80,9 @@ function handleSubmit() {
   return false;
 }
 </script>
+
+ 
+
 
  
 </body>
